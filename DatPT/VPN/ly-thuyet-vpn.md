@@ -2,11 +2,11 @@
 
 **Mục Lục**
 
-[I. VPN là gì.] (#whatisvpn)
+[I. VPN là gì.](#whatisvpn)
 
-[II. Các công nghệ VPN.] (#caccongnghe)
+[II. Các công nghệ VPN.](#caccongnghe)
 
-[III. Các loại VPN.] (#cacloai)
+[III. Các loại VPN.](#cacloai)
 
 [IV. Những ưu điểm nổi trội của VPN.] (#uudiem)
  <ul>
